@@ -1,0 +1,1987 @@
+{
+  "timestamp": "2025-12-16T03:04:13.409866",
+  "total_solved": 330,
+  "total_failed": 0,
+  "details": [
+    {
+      "category": "2x2",
+      "folder": "0",
+      "score": -3.3779296875,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "1",
+      "score": -1.6364928784013604,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "2",
+      "score": -2.4948115965136055,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "3",
+      "score": -2.0520169005102042,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "4",
+      "score": -1.635835193452381,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "5",
+      "score": -2.4619472789115644,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "6",
+      "score": -2.1669855442176873,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "7",
+      "score": -1.6561038477891157,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "8",
+      "score": -2.102552349064626,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "9",
+      "score": -2.3574683779761902,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "10",
+      "score": -2.0971314306972793,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "11",
+      "score": -2.302594866071429,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "12",
+      "score": -1.6613188244047619,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "13",
+      "score": -2.3229830994897958,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "14",
+      "score": -3.331652582908163,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "15",
+      "score": -3.216677295918367,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "16",
+      "score": -1.7018362032312924,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "17",
+      "score": -2.123770992772109,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "18",
+      "score": -2.3178611288265305,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "19",
+      "score": -2.0958426339285716,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "20",
+      "score": -2.8263778167517004,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "21",
+      "score": -1.2909159757653061,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "22",
+      "score": -1.5914182079081631,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "23",
+      "score": -2.0509340454931975,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "24",
+      "score": -1.388333067602041,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "25",
+      "score": -0.9862151892006803,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "26",
+      "score": -0.9387954400510203,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "27",
+      "score": -1.5226004464285714,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "28",
+      "score": -1.7543247767857144,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "29",
+      "score": -2.1434284651360547,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "30",
+      "score": -1.3495362988945578,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "31",
+      "score": -0.8919669430272108,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "32",
+      "score": -1.482514880952381,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "33",
+      "score": -1.5447358630952381,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "34",
+      "score": -1.9978608630952381,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "35",
+      "score": -2.107003348214286,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "36",
+      "score": -1.419921875,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "37",
+      "score": -3.5386771896258504,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "38",
+      "score": -1.6830157844387756,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "39",
+      "score": -1.8841876594387754,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "40",
+      "score": -3.9337266156462585,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "41",
+      "score": -2.0598825467687076,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "42",
+      "score": -1.5888007546768708,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "43",
+      "score": -1.273530505952381,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "44",
+      "score": -2.1474875106292517,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "45",
+      "score": -1.6519185799319729,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "46",
+      "score": -1.792085193452381,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "47",
+      "score": -1.4535501700680271,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "48",
+      "score": -2.5360198767006805,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "49",
+      "score": -2.1406515731292517,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "50",
+      "score": -2.026201105442177,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "51",
+      "score": -2.894571109693878,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "52",
+      "score": -1.3372130102040818,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "53",
+      "score": -0.7931281887755102,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "54",
+      "score": -1.0694820897108845,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "55",
+      "score": -1.0802707801870748,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "56",
+      "score": -1.20773543792517,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "57",
+      "score": -1.44796981292517,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "58",
+      "score": -1.7434563669217689,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "59",
+      "score": -2.0315622342687076,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "60",
+      "score": -1.9644916560374148,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "61",
+      "score": -2.0604206526360542,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "62",
+      "score": -1.0405439519557822,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "63",
+      "score": -1.5272241709183672,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "64",
+      "score": -1.7442801339285716,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "65",
+      "score": -1.772919323979592,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "66",
+      "score": -1.0390757865646258,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "67",
+      "score": -1.8943718112244898,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "68",
+      "score": -1.4661126169217689,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "69",
+      "score": -1.2181587478741496,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "70",
+      "score": -1.2903645833333335,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "71",
+      "score": -1.5328377444727892,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "72",
+      "score": -1.723114636479592,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "73",
+      "score": -1.5044576424319727,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "74",
+      "score": -1.373232886904762,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "75",
+      "score": -0.8467394770408163,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "76",
+      "score": -1.4848400297619047,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "77",
+      "score": -1.32758025085034,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "78",
+      "score": -1.0335419323979593,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "79",
+      "score": -1.2290537308673468,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "80",
+      "score": -1.6964817176870746,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "81",
+      "score": -1.3026280824829932,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "82",
+      "score": -0.9602133822278912,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "83",
+      "score": -1.9076450892857142,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "84",
+      "score": -1.2509034863945578,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "85",
+      "score": -1.5905545812074828,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "86",
+      "score": -1.3577407525510206,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "87",
+      "score": -1.9264920812074828,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "88",
+      "score": -1.4297472895408163,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "89",
+      "score": -0.8020899766156463,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "90",
+      "score": -1.3288225446428572,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "91",
+      "score": -1.708353263180272,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "92",
+      "score": -1.4160023384353742,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "93",
+      "score": -4.891222895408164,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "94",
+      "score": -1.849861819727891,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "95",
+      "score": -1.1309590242346939,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "96",
+      "score": -2.9570445365646254,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "97",
+      "score": -1.5697943239795917,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "98",
+      "score": -3.092966092687075,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "99",
+      "score": -1.630753082482993,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "100",
+      "score": -2.2674452593537415,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "101",
+      "score": -1.9474782100340138,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "102",
+      "score": -2.635410023384354,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "103",
+      "score": -3.1155864689625847,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "104",
+      "score": -2.490759194302721,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "105",
+      "score": -2.210246598639456,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "106",
+      "score": -3.0750690901360542,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "107",
+      "score": -2.2938988095238093,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "108",
+      "score": -1.3675661670918366,
+      "status": "solved"
+    },
+    {
+      "category": "2x2",
+      "folder": "109",
+      "score": -2.7881590136054424,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "0",
+      "score": -3.5119180484693873,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "1",
+      "score": -1.7257188031462585,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "2",
+      "score": -2.6124441964285716,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "3",
+      "score": -2.1893534757653064,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "4",
+      "score": -1.7629078975340138,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "5",
+      "score": -2.5977293261054424,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "6",
+      "score": -2.2472895408163263,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "7",
+      "score": -1.7658575148809526,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "8",
+      "score": -2.2289275085034013,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "9",
+      "score": -2.463043420493197,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "10",
+      "score": -2.210445897108843,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "11",
+      "score": -2.402642697704082,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "12",
+      "score": -1.7356305803571428,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "13",
+      "score": -2.396590667517007,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "14",
+      "score": -3.4230242878401356,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "15",
+      "score": -3.3221726190476186,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "16",
+      "score": -1.8108923256802725,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "17",
+      "score": -2.2201185161564627,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "18",
+      "score": -2.4264322916666665,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "19",
+      "score": -2.2050316220238093,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "20",
+      "score": -2.915271577380953,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "21",
+      "score": -1.3842873086734693,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "22",
+      "score": -1.654031143707483,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "23",
+      "score": -2.171728847789116,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "24",
+      "score": -1.47644956420068,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "25",
+      "score": -1.0321136267006803,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "26",
+      "score": -0.9756523703231293,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "27",
+      "score": -1.629072332057823,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "28",
+      "score": -1.8512369791666665,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "29",
+      "score": -2.24663849914966,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "30",
+      "score": -1.583346619897959,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "31",
+      "score": -0.9451995642006804,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "32",
+      "score": -1.5293898809523814,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "33",
+      "score": -1.6583625637755106,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "34",
+      "score": -2.1473945046768708,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "35",
+      "score": -2.1851283482142856,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "36",
+      "score": -1.487663424744898,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "37",
+      "score": -3.640870801445578,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "38",
+      "score": -1.7225034545068023,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "39",
+      "score": -2.0393348745748296,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "40",
+      "score": -3.9947650935374153,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "41",
+      "score": -2.150769292091837,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "42",
+      "score": -1.6640824298469388,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "43",
+      "score": -1.3844002444727894,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "44",
+      "score": -2.244851456207483,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "45",
+      "score": -1.742360225340136,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "46",
+      "score": -1.8809390943877549,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "47",
+      "score": -1.529197225765306,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "48",
+      "score": -2.680325255102041,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "49",
+      "score": -2.390372555272109,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "50",
+      "score": -2.1485238626700682,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "51",
+      "score": -3.0723586309523814,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "52",
+      "score": -1.4315409757653064,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "53",
+      "score": -0.8881138392857143,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "54",
+      "score": -1.146132281037415,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "55",
+      "score": -1.189632493622449,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "56",
+      "score": -1.3261320153061225,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "57",
+      "score": -1.6023862670068025,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "58",
+      "score": -1.8636732036564625,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "59",
+      "score": -2.127278645833334,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "60",
+      "score": -2.15066299957483,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "61",
+      "score": -2.222549957482993,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "62",
+      "score": -1.141960299744898,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "63",
+      "score": -1.6548947704081634,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "64",
+      "score": -1.8666228210034013,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "65",
+      "score": -1.9064625850340136,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "66",
+      "score": -1.1831818664965985,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "67",
+      "score": -2.0723121279761902,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "68",
+      "score": -1.5517843856292517,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "69",
+      "score": -1.374647906037415,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "70",
+      "score": -1.4068678252551021,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "71",
+      "score": -1.6454081632653061,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "72",
+      "score": -1.8601921237244898,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "73",
+      "score": -1.6308925914115644,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "74",
+      "score": -1.5110743516156464,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "75",
+      "score": -0.9143680909863946,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "76",
+      "score": -1.6209010948129252,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "77",
+      "score": -1.4568120216836733,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "78",
+      "score": -1.2089644451530612,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "79",
+      "score": -1.361354698129252,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "80",
+      "score": -1.84890518707483,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "81",
+      "score": -1.4023038903061222,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "82",
+      "score": -1.0471075148809523,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "83",
+      "score": -2.0320870535714284,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "84",
+      "score": -1.3848121279761905,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "85",
+      "score": -1.7467580782312926,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "86",
+      "score": -1.4950042517006803,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "87",
+      "score": -2.1003467793367343,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "88",
+      "score": -1.5141169749149659,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "89",
+      "score": -0.9253959396258503,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "90",
+      "score": -1.4557092368197277,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "91",
+      "score": -1.8216610863095237,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "92",
+      "score": -1.4674014136904758,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "93",
+      "score": -4.953948767006803,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "94",
+      "score": -1.9750079719387754,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "95",
+      "score": -1.1824112457482994,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "96",
+      "score": -3.099257281037415,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "97",
+      "score": -1.64116974914966,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "98",
+      "score": -3.204938616071429,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "99",
+      "score": -1.740387170493197,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "100",
+      "score": -2.3940861500850343,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "101",
+      "score": -2.072351987670068,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "102",
+      "score": -2.752956260629252,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "103",
+      "score": -3.2418221194727894,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "104",
+      "score": -2.637203709608843,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "105",
+      "score": -2.4027622767857144,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "106",
+      "score": -3.2430843431122445,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "107",
+      "score": -2.484494579081632,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "108",
+      "score": -1.4462624893707485,
+      "status": "solved"
+    },
+    {
+      "category": "4x4",
+      "folder": "109",
+      "score": -2.901785714285714,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "0",
+      "score": -3.7258383822278898,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "1",
+      "score": -1.9018787202380947,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "2",
+      "score": -2.8471048575680276,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "3",
+      "score": -2.378514296343537,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "4",
+      "score": -1.9558088860544218,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "5",
+      "score": -2.8539275085034017,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "6",
+      "score": -2.4257878932823127,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "7",
+      "score": -1.9881483843537417,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "8",
+      "score": -2.4248312606292513,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "9",
+      "score": -2.657525510204082,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "10",
+      "score": -2.4065090880102034,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "11",
+      "score": -2.5948129251700682,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "12",
+      "score": -1.9124415391156462,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "13",
+      "score": -2.592906303146258,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "14",
+      "score": -3.6761798469387768,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "15",
+      "score": -3.6233059630102047,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "16",
+      "score": -1.9669430272108845,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "17",
+      "score": -2.4058713329081627,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "18",
+      "score": -2.6120455994897966,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "19",
+      "score": -2.405140571853742,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "20",
+      "score": -3.080695950255102,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "21",
+      "score": -1.5548668686224487,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "22",
+      "score": -1.8029668898809519,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "23",
+      "score": -2.3663969494047605,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "24",
+      "score": -1.6493742028061231,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "25",
+      "score": -1.1028313669217689,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "26",
+      "score": -1.1306401466836735,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "27",
+      "score": -1.8366151147959175,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "28",
+      "score": -2.0664128932823127,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "29",
+      "score": -2.4274620004251704,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "30",
+      "score": -1.8775244472789112,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "31",
+      "score": -1.0399792729591832,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "32",
+      "score": -1.6766714498299318,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "33",
+      "score": -1.8480083439625852,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "34",
+      "score": -2.3724290497448974,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "35",
+      "score": -2.4114782631802716,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "36",
+      "score": -1.656216783588435,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "37",
+      "score": -3.834409545068027,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "38",
+      "score": -1.8546516262755104,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "39",
+      "score": -2.253653805272109,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "40",
+      "score": -4.059384300595237,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "41",
+      "score": -2.3579799107142856,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "42",
+      "score": -1.8250425170068028,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "43",
+      "score": -1.567376169217687,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "44",
+      "score": -2.4603396045918355,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "45",
+      "score": -1.9482886904761905,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "46",
+      "score": -2.071428571428572,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "47",
+      "score": -1.7075560693027212,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "48",
+      "score": -2.9873976934523823,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "49",
+      "score": -2.7290736607142865,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "50",
+      "score": -2.4364835778061225,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "51",
+      "score": -3.2803664434523814,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "52",
+      "score": -1.5962678039965987,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "53",
+      "score": -1.0829280931122447,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "54",
+      "score": -1.2992466517857144,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "55",
+      "score": -1.4191844706632653,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "56",
+      "score": -1.5394212372448983,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "57",
+      "score": -1.814479698129251,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "58",
+      "score": -2.0694090136054424,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "59",
+      "score": -2.33062287414966,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "60",
+      "score": -2.425575308248299,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "61",
+      "score": -2.474974755527211,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "62",
+      "score": -1.330337213010204,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "63",
+      "score": -1.8278659119897958,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "64",
+      "score": -2.0864224596088436,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "65",
+      "score": -2.1491151147959187,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "66",
+      "score": -1.3792782738095237,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "67",
+      "score": -2.3904257015306127,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "68",
+      "score": -1.7557198660714284,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "69",
+      "score": -1.6297765199829928,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "70",
+      "score": -1.586555325255102,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "71",
+      "score": -1.887868037840136,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "72",
+      "score": -2.135190795068028,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "73",
+      "score": -1.885496386054422,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "74",
+      "score": -1.7583638924319729,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "75",
+      "score": -1.075892857142857,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "76",
+      "score": -1.8896750106292524,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "77",
+      "score": -1.7218391262755102,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "78",
+      "score": -1.5249455250850341,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "79",
+      "score": -1.5548004357993204,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "80",
+      "score": -2.069316007653061,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "81",
+      "score": -1.5883955144557826,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "82",
+      "score": -1.2247953869047616,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "83",
+      "score": -2.271178784013606,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "84",
+      "score": -1.5937433567176877,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "85",
+      "score": -1.971141581632653,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "86",
+      "score": -1.771962691326531,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "87",
+      "score": -2.3303172831632657,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "88",
+      "score": -1.745250053146258,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "89",
+      "score": -1.0742054634353744,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "90",
+      "score": -1.7161923363095237,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "91",
+      "score": -2.025184683248299,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "92",
+      "score": -1.6733896683673468,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "93",
+      "score": -5.186988467261904,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "94",
+      "score": -2.1907153486394564,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "95",
+      "score": -1.3213820684523814,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "96",
+      "score": -3.320026838860544,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "97",
+      "score": -1.8571627869897958,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "98",
+      "score": -3.43393255739796,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "99",
+      "score": -1.9050342793367347,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "100",
+      "score": -2.620236766581633,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "101",
+      "score": -2.2936131483843534,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "102",
+      "score": -2.9239609906462585,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "103",
+      "score": -3.4854047087585043,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "104",
+      "score": -2.8937539859693877,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "105",
+      "score": -2.780472735969388,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "106",
+      "score": -3.4585791347789114,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "107",
+      "score": -2.790836256377551,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "108",
+      "score": -1.5941818133503405,
+      "status": "solved"
+    },
+    {
+      "category": "8x8",
+      "folder": "109",
+      "score": -3.1282618516156466,
+      "status": "solved"
+    }
+  ]
+}
